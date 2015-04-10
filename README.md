@@ -1,2 +1,2 @@
-# flightgraph
+# Flight Graph
 Flight Graph Tool
